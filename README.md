@@ -11,4 +11,4 @@ RAG with consulting use cases in mind, all running locally
 - Run query.py, which takes one command line argument that is the question for your data e.g. `python query.py "What work have we done previously on solar power?"`
 
 ## Contributing
-This is an early stage project, please get in touch if you want to collaborate!
+This is an early stage project, please get in touch if you want to collaborate! You can email me on edfagedeveloper@gmail.com
