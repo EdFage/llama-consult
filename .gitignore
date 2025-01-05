@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-=======
 # Ed stuff
 .DS_Store
+<<<<<<< HEAD
 */data/*
 
->>>>>>> d450ae8 (first commit)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
