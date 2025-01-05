@@ -2,7 +2,7 @@
 RAG with consulting use cases in mind, all running locally
 
 ## Setup
-- Follow isntructions here to install and use Ollama https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local/
+- Follow instructions here to install and use Ollama https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local/
 - Install dependencies from `requirements.txt`
 
 ## Usage
