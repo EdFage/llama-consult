@@ -11,7 +11,7 @@ if len(sys.argv) < 2:
 query = sys.argv[1]
 
 # Load documents
-documents = SimpleDirectoryReader("data").load_data()
+documents = SimpleDirectoryReader("data", recursive=True).load_data()
 
 # bge-base embedding model
 Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-base-en-v1.5")
