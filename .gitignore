@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# Ed stuff
+.DS_Store
+openai_example/data/
+
+>>>>>>> d450ae8 (first commit)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -168,4 +175,8 @@ cython_debug/
 #.idea/
 
 # PyPI configuration file
+<<<<<<< HEAD
 .pypirc
+=======
+.pypirc
+>>>>>>> d450ae8 (first commit)
