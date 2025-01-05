@@ -2,7 +2,7 @@
 =======
 # Ed stuff
 .DS_Store
-openai_example/data/
+*/data/*
 
 >>>>>>> d450ae8 (first commit)
 # Byte-compiled / optimized / DLL files
